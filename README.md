@@ -99,7 +99,7 @@ The `processed.json` file contains the calculated 12-month rolling averages in O
 }
 ```
 
-Current 12-month rolling average (as of August 2025):
+Current 12-month rolling average (as of 12 August 2025):
 - **Fossil fuels: 57.85%**
 - **Renewables: 41.68%**
 
