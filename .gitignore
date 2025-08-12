@@ -11,9 +11,8 @@ ENV/
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Output files
-output/raw.json
-output/processed.json
+# Output files (generated)
+output/
 
 # IDE
 .vscode/
